@@ -1,0 +1,22 @@
+apiVersion: apps/v1
+kind : Deployment
+metadata :
+  name: BookingDomain
+spec:
+  replicas : 5 
+  selector:
+    matchLabels:
+      app: BookingDomain-pod
+  template:
+    metadata:
+      labels:
+        app: BookingDomain-pod
+    spec:
+      containers:
+         - name: BookingDomain-container
+           image: kodelr/BookingDomain:demo
+           ports:
+             - containerPort: 80
+             
+      
+      

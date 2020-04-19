@@ -1,0 +1,17 @@
+C:\net\microservices\BookingDomain\BookingDomain\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\net\microservices\BookingDomain\BookingDomain\bin\Debug\netcoreapp3.1\appsettings.json
+C:\net\microservices\BookingDomain\BookingDomain\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\net\microservices\BookingDomain\BookingDomain\bin\Debug\netcoreapp3.1\BookingDomain.exe
+C:\net\microservices\BookingDomain\BookingDomain\bin\Debug\netcoreapp3.1\BookingDomain.deps.json
+C:\net\microservices\BookingDomain\BookingDomain\bin\Debug\netcoreapp3.1\BookingDomain.runtimeconfig.json
+C:\net\microservices\BookingDomain\BookingDomain\bin\Debug\netcoreapp3.1\BookingDomain.runtimeconfig.dev.json
+C:\net\microservices\BookingDomain\BookingDomain\bin\Debug\netcoreapp3.1\BookingDomain.dll
+C:\net\microservices\BookingDomain\BookingDomain\bin\Debug\netcoreapp3.1\BookingDomain.pdb
+C:\net\microservices\BookingDomain\BookingDomain\obj\Debug\netcoreapp3.1\BookingDomain.MvcApplicationPartsAssemblyInfo.cache
+C:\net\microservices\BookingDomain\BookingDomain\obj\Debug\netcoreapp3.1\BookingDomain.AssemblyInfoInputs.cache
+C:\net\microservices\BookingDomain\BookingDomain\obj\Debug\netcoreapp3.1\BookingDomain.AssemblyInfo.cs
+C:\net\microservices\BookingDomain\BookingDomain\obj\Debug\netcoreapp3.1\BookingDomain.RazorTargetAssemblyInfo.cache
+C:\net\microservices\BookingDomain\BookingDomain\obj\Debug\netcoreapp3.1\staticwebassets\BookingDomain.StaticWebAssets.Manifest.cache
+C:\net\microservices\BookingDomain\BookingDomain\obj\Debug\netcoreapp3.1\staticwebassets\BookingDomain.StaticWebAssets.xml
+C:\net\microservices\BookingDomain\BookingDomain\obj\Debug\netcoreapp3.1\BookingDomain.dll
+C:\net\microservices\BookingDomain\BookingDomain\obj\Debug\netcoreapp3.1\BookingDomain.pdb

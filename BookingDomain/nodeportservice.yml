@@ -1,0 +1,14 @@
+kind: Service 
+apiVersion: v1 
+metadata: 
+  name: BookingDomain-service 
+spec: 
+  selector: 
+    app: BookingDomain-pod 
+  ports: 
+  - protocol: TCP 
+    port: 80 
+    targetPort: 80 
+    nodePort: 31002
+  type: NodePort       
+      
